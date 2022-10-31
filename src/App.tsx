@@ -20,7 +20,7 @@ function App() {
             <div className="Mark bg-verylgBlue flex items-center gap-x-5 p-3 rounded-lg">
               <img
                 className="self-start"
-                src="../src/assets/avatar-mark-webber.webp"
+                src="avatar-mark-webber.webp"
                 alt=""
               />
               <div className="notification">
@@ -39,7 +39,7 @@ function App() {
             <div className="Angela bg-verylgBlue flex items-center gap-x-5 p-3 rounded-lg">
               <img
                 className="self-start"
-                src="../src/assets/avatar-angela-gray.webp"
+                src="avatar-angela-gray.webp"
                 alt=""
               />
               <div className="notification">
@@ -54,7 +54,7 @@ function App() {
             <div className="Jacob bg-verylgBlue flex items-center gap-x-5 p-3 rounded-lg">
               <img
                 className="self-start"
-                src="../src/assets/avatar-jacob-thompson.webp"
+                src="avatar-jacob-thompson.webp"
                 alt=""
               />
               <div className="notification">
@@ -73,7 +73,7 @@ function App() {
             <div className="Rizky bg-White flex items-center gap-x-5 p-3 rounded-lg">
               <img
                 className="self-start"
-                src="../src/assets/avatar-rizky-hasanuddin.webp"
+                src="avatar-rizky-hasanuddin.webp"
                 alt=""
               />
               <div className="notification">
@@ -89,7 +89,7 @@ function App() {
               <div className="flex items-center gap-x-5">
               <img
                 className="self-start"
-                src="../src/assets/avatar-kimberly-smith.webp"
+                src="avatar-kimberly-smith.webp"
                 alt=""
               />
               <div className="notification">
@@ -99,13 +99,13 @@ function App() {
                 <span className="text-sm text-gray-400">1 week ago</span>
               </div>
               </div>
-              <img className="self-start cursor-pointer" src="../src/assets/image-chess.webp" alt="" />
+              <img className="self-start cursor-pointer ml-1" src="image-chess.webp" alt="" />
             </div>
             {/* notification-6 Nathan */}
             <div className="Nathan bg-White flex items-center gap-x-5 p-3 rounded-lg">
               <img
                 className="self-start"
-                src="../src/assets/avatar-nathan-peterson.webp"
+                src="avatar-nathan-peterson.webp"
                 alt=""
               />
               <div className="notification">
@@ -122,7 +122,7 @@ function App() {
             <div className="Anna bg-White flex items-center gap-x-5 p-3 rounded-lg">
               <img
                 className="self-start"
-                src="../src/assets/avatar-anna-kim.webp"
+                src="avatar-anna-kim.webp"
                 alt=""
               />
               <div className="notification">
