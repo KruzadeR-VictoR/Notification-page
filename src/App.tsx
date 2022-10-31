@@ -102,7 +102,7 @@ function App() {
               <img className="self-start cursor-pointer" src="../src/assets/image-chess.webp" alt="" />
             </div>
             {/* notification-6 Nathan */}
-            <div className="Natha bg-White flex items-center gap-x-5 p-3 rounded-lg">
+            <div className="Nathan bg-White flex items-center gap-x-5 p-3 rounded-lg">
               <img
                 className="self-start"
                 src="../src/assets/avatar-nathan-peterson.webp"
